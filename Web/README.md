@@ -1,9 +1,5 @@
 # Web
 
-Write-ups des challenges **Web** — HSR2026.
-
-**État : 9/12 write-up(s) disponible(s)**
-
 | Challenge | Write-up |
 |-----------|:--------:|
 | [Breakout](<Breakout>) | ❌ |

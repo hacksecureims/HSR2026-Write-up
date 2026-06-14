@@ -1,9 +1,5 @@
 # Cryptography
 
-Write-ups des challenges **Cryptography** — HSR2026.
-
-**État : 0/7 write-up(s) disponible(s)**
-
 | Challenge | Write-up |
 |-----------|:--------:|
 | [Base 64 - multiple](<Base 64 - multiple>) | ❌ |

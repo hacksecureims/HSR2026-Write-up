@@ -1,9 +1,5 @@
 # Lockpicking
 
-Write-ups des challenges **Lockpicking** — HSR2026.
-
-**État : 0/9 write-up(s) disponible(s)**
-
 | Challenge | Write-up |
 |-----------|:--------:|
 | [Code - Pas touche à mon gite !](<Code - Pas touche à mon gite !>) | ❌ |

@@ -1,9 +1,5 @@
 # Network
 
-Write-ups des challenges **Network** — HSR2026.
-
-**État : 1/3 write-up(s) disponible(s)**
-
 | Challenge | Write-up |
 |-----------|:--------:|
 | [Transmission oubliée](<Transmission oubliée>) | ❌ |
